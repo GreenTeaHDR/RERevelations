@@ -4,7 +4,7 @@ Resident Evil Revelations
 PlayStation DualSense style button prompts v1.00
 
 by GreenTeaZero
-https://www.youtube.com/@GreenTeaOriginal
+https://linktr.ee/GreenTeaZero
 ==============================
 
 Usage:
